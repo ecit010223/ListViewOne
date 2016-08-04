@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_bjdzbk_red_add_cut.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_bjdzbk_red_add_cut.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_bjdzbk_drag.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_bjdzbk_drag.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_marketinfo_edit_note.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_marketinfo_edit_note.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_detail_back_click.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_detail_back_click.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_detail_back.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_detail_back.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_bjdzbk_red_add_cut_a.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_bjdzbk_red_add_cut_a.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zq_marketinfo_edit_note_unselect.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\zq_marketinfo_edit_note_unselect.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\optional_drag.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\optional_drag.png"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img24_updown.png",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\drawable-xxhdpi\\img24_updown.png"
+    }
+]

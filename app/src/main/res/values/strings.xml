@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">调试</string>
+    <string name="IDS_QiQuanName">期权名称</string>
+    <string name="IDS_ZuiXinJia">最新价</string>
+    <string name="IDS_ZhangDieFu">涨跌幅</string>
+    <string name="IDS_YiJiaLv">溢价率</string>
+    <string name="IDS_XingQuanJia">行权价</string>
+    <string name="IDS_BuyJia">买价</string>
+    <string name="IDS_BuyLiang">买量</string>
+    <string name="IDS_SellJia">卖价</string>
+    <string name="IDS_SellLiang">卖量</string>
+    <string name="IDS_ZongLiang">总量</string>
+    <string name="IDS_XianLiang">现量</string>
+    <string name="IDS_ChiCangLiang">持仓量</string>
+    <string name="IDS_CangCha">仓差</string>
+    <string name="IDS_GangGanLv">杠杆率</string>
+    <string name="IDS_ZhenShiGangGanLv">真实杠杆率</string>
+    <string name="IDS_NeiZaiJiaZhi">内在价值</string>
+    <string name="IDS_ShiJianJiaZhi">时间价值</string>
+    <string name="IDS_ShiXuZhi">实虚值</string>
+    <string name="IDS_DaoQiRi">到期日</string>
+    <string name="IDS_ZhangDieE">涨跌额</string>
+    <string name="IDS_YinHanBoDongLv">隐含波动率</string>
+    <string name="ZQ_ChangAnTuoDong">长按拖动</string>
+    <string name="IDS_TuPianMiaoShu">图片的描述</string>
+</resources>

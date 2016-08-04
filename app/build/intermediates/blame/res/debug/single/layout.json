@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_head.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\public_head.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dzbk_edit_activity.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\dzbk_edit_activity.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zq_dzbk_list_item_home_drag.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\zq_dzbk_list_item_home_drag.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewOne\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_home_fixed.xml",
+        "source": "E:\\ASWorkspace\\ListViewOne\\app\\src\\main\\res\\layout\\list_item_home_fixed.xml"
+    }
+]

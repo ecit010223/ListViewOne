@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="demand_efefef">#efefef</color>
+    <color name="gray_demand_one">#999999</color>
+    <color name="public_head_ffffff">#ffffff</color>
+    <color name="zq_515151">#515151</color>
+    <color name="zq_ffffff">#ffffff</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="zq_ededed">#ededed</color>
+
+</resources>

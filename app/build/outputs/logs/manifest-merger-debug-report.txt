@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:10:5-33:19
+	android:label
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.activity.ListViewActivity
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:excludeFromRecents
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:18:13-46
+	android:launchMode
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:19:13-44
+	android:taskAffinity
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.activity.DZBKEditActivity
+ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:excludeFromRecents
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:30:13-44
+	android:taskAffinity
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from E:\ASWorkspace\ListViewOne\app\src\main\AndroidManifest.xml:28:13-65

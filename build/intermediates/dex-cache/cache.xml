@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\ASWorkspace\ListViewOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_78275bfeee3da448bb7f8684f169afce1653c8cc\classes.dex" />
+    </item>
+    <item
+        jar="E:\ASWorkspace\ListViewOne\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88ca6f485be2b6499d50726b20602a3080b32491">
+        <dex dex="E:\ASWorkspace\ListViewOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa08ddb2e53c79489da71acb8bb4e0df8b7b1cc4\classes.dex" />
+    </item>
+    <item
+        jar="E:\ASWorkspace\ListViewOne\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24bb336ae7d0632003d6436f40883ff7084e1198">
+        <dex dex="E:\ASWorkspace\ListViewOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_245634f09caa5da640279c147739b9bc86252a97\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items
+    updateDate="2016-04-12"
+    version="1.1" >
+
+    <item
+        name="最新价"
+        id="101"
+        checked="1"/>
+
+    <item
+        name="涨跌幅"
+        id="102"
+        checked="1"/>
+
+    <item
+        name="溢价率"
+        id="103"
+        checked="1"/>
+
+    <item
+        name="行权价"
+        id="104"
+        checked="0"/>
+
+    <item
+        name="买价"
+        id="105"
+        checked="0"/>
+
+    <item
+        name="买量"
+        id="106"
+        checked="0"/>
+
+    <item
+        name="卖价"
+        id="107"
+        checked="0"/>
+
+    <item
+        name="卖量"
+        id="108"
+        checked="0"/>
+
+    <item
+        name="总量"
+        id="109"
+        checked="0"/>
+
+    <item
+        name="现量"
+        id="110"
+        checked="0"/>
+
+    <item
+        name="持仓量"
+        id="111"
+        checked="0"/>
+
+    <item
+        name="仓差"
+        id="112"
+        checked="0"/>
+
+    <item
+        name="杠杆率"
+        id="113"
+        checked="0"/>
+
+    <item
+        name="真实杠杆率"
+        id="114"
+        checked="0"/>
+
+    <item
+        name="内存价值"
+        id="115"
+        checked="0"/>
+
+    <item
+        name="时间价值"
+        id="116"
+        checked="0"/>
+
+    <item
+        name="实虚值"
+        id="117"
+        checked="0"/>
+
+    <item
+        name="到期日"
+        id="118"
+        checked="0"/>
+
+    <item
+        name="其它1"
+        id="119"
+        checked="0"/>
+
+    <item
+        name="其它2"
+        id="120"
+        checked="0"/>
+
+</items>

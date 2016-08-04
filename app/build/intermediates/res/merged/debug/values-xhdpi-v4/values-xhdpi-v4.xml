@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_A">20dp</dimen>
+    <dimen name="font_optional_D">18dp</dimen>
+    <dimen name="font_t_offer_D">14.5sp</dimen>
+    <dimen name="list_item_width_mid_100dp">100dp</dimen>
+    <dimen name="optional_scroll_tab">28dp</dimen>
+    <dimen name="optional_scroll_tab_item">54dp</dimen>
+    <dimen name="public_head_title_height">50dp</dimen>
+    <dimen name="zq_detail_font_A">18dp</dimen>
+    <dimen name="zq_public_head_margin_A">10dp</dimen>
+    <dimen name="zq_public_head_margin_B">20dp</dimen>
+    <dimen name="zq_zixuan_title_height">43.5dp</dimen>
+</resources>

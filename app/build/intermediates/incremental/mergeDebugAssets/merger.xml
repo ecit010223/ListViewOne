@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ASWorkspace\ListViewOne\app\src\main\assets"><file name="custom_items.xml" path="E:\ASWorkspace\ListViewOne\app\src\main\assets\custom_items.xml"/></source><source path="E:\ASWorkspace\ListViewOne\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\ASWorkspace\ListViewOne\app\src\debug\assets"/></dataSet></merger>
